@@ -1,12 +1,12 @@
-## Hi there 👋
+# 55G Project
+NHN 아카데미 7기<br>
+도서 쇼핑몰 프로젝트
 
-<!--
+## 프로젝트 소개
 
-**Here are some ideas to get you started:**
+## 팀원 구성
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 작업 기간
+
+
+# 프로젝트 상세 소개
