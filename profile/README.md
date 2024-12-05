@@ -62,16 +62,16 @@
 - Message Queue : RabbitMQ
 - 협업도구 : GitHub Project
 - CI/CD :
- - Continuous Integration
- - Continuous (Delivery, Deployment)
-  - Github Action
-  - Docker
-  - Github Package Registry
+  - Continuous Integration
+  - Continuous (Delivery, Deployment)
+   - Github Action
+   - Docker
+   - Github Package Registry
 - UI : Bootstrap
 - NHN Cloud :
- - Instance
- - Secure Key Manager
- - Image Manager    
+  - Instance
+  - Secure Key Manager
+  - Image Manager    
 
 
 
