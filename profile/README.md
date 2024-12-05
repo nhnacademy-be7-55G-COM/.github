@@ -49,13 +49,13 @@
   - Spring Framework(6.1.13)
   - Spring Boot(3.3.4)
   - Spring Cloud
-   - Spring Cloud Netflix(eureka)
-   - Spring Cloud Config
-   - Spring Cloud OpenFeign
+    - Spring Cloud Netflix(eureka)
+    - Spring Cloud Config
+    - Spring Cloud OpenFeign
   - JPA : Query
 - 테스트 환경 :
- - Junit5 / AssertJ / Mokito / SonarQube
- - SonarQube Test Coverage 60% 이상
+  - Junit5 / AssertJ / Mokito / SonarQube
+  - SonarQube Test Coverage 60% 이상
 - 데이터베이스 : MySQL(8.0.37) / Redis
 - 검색엔진 : Elastic Search (8.6.2)
 - 모델링(ERD) : ERD Cloud
