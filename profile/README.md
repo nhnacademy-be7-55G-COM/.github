@@ -7,6 +7,14 @@ NHN 아카데미 7기<br>
 ## 프로젝트 소개
 
 ## 팀원 구성
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/FlowerfulFort.png" width="100" height="100" alt="김준엽"/><br>
+      <a href="https://github.com/FlowerfulFort"><b>김준엽</b></a>
+    </td>
+  </tr>
+</table>
 
 ## 작업 기간
 
