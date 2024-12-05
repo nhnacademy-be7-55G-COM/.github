@@ -47,6 +47,31 @@
 - 빌드도구 : Maven
 - 개발 :
   - Spring Framework(6.1.13)
+  - Spring Boot(3.3.4)
+  - Spring Cloud
+   - Spring Cloud Netflix(eureka)
+   - Spring Cloud Config
+   - Spring Cloud OpenFeign
+  - JPA : Query
+- 테스트 환경 :
+ - Junit5 / AssertJ / Mokito / SonarQube
+ - SonarQube Test Coverage 60% 이상
+- 데이터베이스 : MySQL(8.0.37) / Redis
+- 검색엔진 : Elastic Search (8.6.2)
+- 모델링(ERD) : ERD Cloud
+- Message Queue : RabbitMQ
+- 협업도구 : GitHub Project
+- CI/CD :
+ - Continuous Integration
+ - Continuous (Delivery, Deployment)
+  - Github Action
+  - Docker
+  - Github Package Registry
+- UI : Bootstrap
+- NHN Cloud :
+ - Instance
+ - Secure Key Manager
+ - Image Manager    
 
 
 
