@@ -76,6 +76,7 @@
 
 
 # 아키텍쳐 구조
-![아키텍쳐 구조](https://drive.usercontent.google.com/download?id=1r3Pi-KXVvzenMuH6Ql2aDHUK8E3-8wGx&export=download&authuser=0)
+![아키텍쳐](https://github.com/user-attachments/assets/8394e60b-6742-4779-9e6b-bffe0d7f3be6)
+
 
 
