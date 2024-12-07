@@ -84,8 +84,10 @@
 ## 테스트 커버리지
 - Backend 서버
 <img width="873" alt="backend서버" src="https://github.com/user-attachments/assets/238fa41f-54ce-4373-a417-60e2ba2c386a">
+
 - Frontend 서버
 <img width="868" alt="frontend서버" src="https://github.com/user-attachments/assets/e41da784-ff8d-49f8-a53a-9131769ce1d2">
+
 - Auth 서버
 <img width="852" alt="auth서버" src="https://github.com/user-attachments/assets/17100475-f3e7-4709-aa52-b142a71d9078">
 
