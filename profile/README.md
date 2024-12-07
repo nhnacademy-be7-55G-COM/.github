@@ -78,7 +78,7 @@
 # 아키텍쳐 구조
 ![아키텍쳐](https://github.com/user-attachments/assets/8394e60b-6742-4779-9e6b-bffe0d7f3be6)
 
-##ERD
+## ERD
 ![Copy of 55G COM V8](https://github.com/user-attachments/assets/b7f8b259-a8d7-4b7f-a878-8c2636396146)
 
 ## 테스트 커버리지
