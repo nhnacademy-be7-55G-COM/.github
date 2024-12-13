@@ -79,7 +79,8 @@
 ![아키텍쳐](https://github.com/user-attachments/assets/8394e60b-6742-4779-9e6b-bffe0d7f3be6)
 
 ## ERD
-![Copy of 55G COM V8](https://github.com/user-attachments/assets/b7f8b259-a8d7-4b7f-a878-8c2636396146)
+![Copy of 55G COM V8-2](https://github.com/user-attachments/assets/6c58811d-2808-4535-a054-560d70ce478b)
+
 
 ## 테스트 커버리지
 - Backend 서버
