@@ -84,18 +84,13 @@
 
 ## 테스트 커버리지
 - Backend 서버
-<img width="873" alt="backend서버" src="https://github.com/user-attachments/assets/238fa41f-54ce-4373-a417-60e2ba2c386a">
+<img width="873" alt="backend서버" src="https://private-user-images.githubusercontent.com/97074298/395464016-a9a56b87-6b66-420a-bf38-7ac1ea0302b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwOTU3NDAsIm5iZiI6MTczNDA5NTQ0MCwicGF0aCI6Ii85NzA3NDI5OC8zOTU0NjQwMTYtYTlhNTZiODctNmI2Ni00MjBhLWJmMzgtN2FjMWVhMDMwMmIwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEzVDEzMTA0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZjVjZTVkNzA0NjBhMDhkOGZlYjAwYmYxMjQzYWZkMjM1YzIwYTk1NzY0NWRmMzhjMmQyNjc1Mzc4ZGM5MzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2KSvtwtGWumZlAxj_JWoLVJkS0OqePk0TTr5GW0riSQ">
 
 - Frontend 서버
 <img width="868" alt="frontend서버" src="https://github.com/user-attachments/assets/e41da784-ff8d-49f8-a53a-9131769ce1d2">
 
 - Auth 서버
 <img width="852" alt="auth서버" src="https://github.com/user-attachments/assets/17100475-f3e7-4709-aa52-b142a71d9078">
-
-<p align="center">
- <img width="868" alt="frontend서버" src="https://github.com/user-attachments/assets/e41da784-ff8d-49f8-a53a-9131769ce1d2" width="150">
- <img width="852" alt="auth서버" src="https://github.com/user-attachments/assets/17100475-f3e7-4709-aa52-b142a71d9078" width="150">
-</p>
 
 ## Project Management
 
