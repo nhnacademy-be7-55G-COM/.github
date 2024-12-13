@@ -92,6 +92,11 @@
 - Auth 서버
 <img width="852" alt="auth서버" src="https://github.com/user-attachments/assets/17100475-f3e7-4709-aa52-b142a71d9078">
 
+<div style="display: flex; justify-content: center;">
+ <img width="868" alt="frontend서버" src="https://github.com/user-attachments/assets/e41da784-ff8d-49f8-a53a-9131769ce1d2" width="45%">
+ <img width="852" alt="auth서버" src="https://github.com/user-attachments/assets/17100475-f3e7-4709-aa52-b142a71d9078" width="45%">
+</div>
+
 ## Project Management
 
 ## 기능
